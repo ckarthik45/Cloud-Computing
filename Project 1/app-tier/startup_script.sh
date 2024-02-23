@@ -1,0 +1,1 @@
+nohup /usr/bin/python3 /home/ubuntu/app-tier/app_tier.py &
